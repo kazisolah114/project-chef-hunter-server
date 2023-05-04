@@ -1,0 +1,339 @@
+[
+  {
+    "id": "1234567",
+    "name": "Gordon Ramsay",
+    "bio": "Gordon James Ramsay OBE is a British chef, restaurateur, writer, and television personality. He has owned and operated a series of restaurants since he was 31 years old, including the three-Michelin-starred Restaurant Gordon Ramsay in London.",
+    "image": "https://img.freepik.com/free-photo/studio-portrait-cook-man-with-fresh-vegetables-table_613910-9893.jpg?w=996&t=st=1683110190~exp=1683110790~hmac=6b88528cb92bc9db63e794d4dd8561fc2b7a1edabd6e3cf011fdd6903daf8466 ",
+    "specialties": [
+      "French cuisine",
+      "Italian cuisine",
+      "British cuisine"
+    ],
+    "num_recipes": 150,
+    "years_experience": 30,
+    "num_likes": 5000,
+    "recipes": [
+      {
+        "id": "1",
+        "recipe_name": "Persian Kabab Platter",
+        "recipe_image": "https://i.ibb.co/XbW97dR/food1.jpg",
+        "ingredients": [
+          "salt", "sugar", "saturated fats", "trans fats", "calories"
+        ],
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem repellendus, blanditiis fuga sed ipsa quisquam asperiores hic, similique ipsum consequatur libero quasi dolores eligendi provident adipisci",
+        "cooking_method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus necessitatibus facere doloribus iste quod soluta",
+        "rating": 4.8
+      },
+      {
+        "id": "2",
+        "recipe_name": "Italian Pizzaroma",
+        "recipe_image": "https://i.ibb.co/6WSJFjk/food2.jpg",
+        "ingredients": [
+          "salt", "sugar", "saturated fats", "trans fats", "calories"
+        ],
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem repellendus, blanditiis fuga sed ipsa quisquam asperiores hic, similique ipsum consequatur libero quasi dolores eligendi provident adipisci",
+        "cooking_method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus necessitatibus facere doloribus iste quod soluta",
+        "rating": 3.5
+      },
+      {
+        "id": "6",
+        "recipe_name": "Mexican Nachos",
+        "recipe_image": "https://i.ibb.co/1MDV0v3/food6.jpg",
+        "ingredients": [
+          "salt", "sugar", "saturated fats", "trans fats", "calories"
+        ],
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem repellendus, blanditiis fuga sed ipsa quisquam asperiores hic, similique ipsum consequatur libero quasi dolores eligendi provident adipisci",
+        "cooking_method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus necessitatibus facere doloribus iste quod soluta",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    "id": "2345678",
+    "name": "Ina Garten",
+    "bio": "Ina Rosenberg Garten is an American author and host of the Food Network program Barefoot Contessa. She is a former staff member of the White House Office of Management and Budget.",
+    "image": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=996&t=st=1683109106~exp=1683109706~hmac=d405b79c9dfd692368243eb47a6a95342a5dd33e03437e0eef768a02e20616c0",
+    "specialties": [
+      "French cuisine",
+      "Italian cuisine",
+      "American cuisine"
+    ],
+    "num_recipes": 100,
+    "years_experience": 20,
+    "num_likes": 3500,
+    "recipes": [
+      {
+        "id": "1",
+        "recipe_name": "Pakistani Reshmi Kabab",
+        "recipe_image": "https://i.ibb.co/1MDV0v3/food6.jpg",
+        "ingredients": [
+          "salt", "sugar", "saturated fats", "trans fats", "calories"
+        ],
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem repellendus, blanditiis fuga sed ipsa quisquam asperiores hic, similique ipsum consequatur libero quasi dolores eligendi provident adipisci",
+        "cooking_method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus necessitatibus facere doloribus iste quod soluta",
+        "rating": 4.1
+      },
+      {
+        "id": "2",
+        "recipe_name": "Tonda Romana",
+        "recipe_image": "https://i.ibb.co/WtbVJK6/food5.jpg",
+        "ingredients": [
+          "salt", "sugar", "saturated fats", "trans fats", "calories"
+        ],
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem repellendus, blanditiis fuga sed ipsa quisquam asperiores hic, similique ipsum consequatur libero quasi dolores eligendi provident adipisci",
+        "cooking_method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus necessitatibus facere doloribus iste quod soluta",
+        "rating": 4.5
+      },
+      {
+        "id": "3",
+        "recipe_name": "Pizza Napoletana",
+        "recipe_image": "https://i.ibb.co/rcN2Zy7/food4.jpg",
+        "ingredients": [
+          "salt", "sugar", "saturated fats", "trans fats", "calories"
+        ],
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem repellendus, blanditiis fuga sed ipsa quisquam asperiores hic, similique ipsum consequatur libero quasi dolores eligendi provident adipisci",
+        "cooking_method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus necessitatibus facere doloribus iste quod soluta",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "id": "3456789",
+    "name": "Anthony Bourdain",
+    "bio": "Anthony Michael Bourdain was an American chef, author, and television personality. He was a 1978 graduate of The Culinary Institute of America and a veteran of numerous professional kitchens, including many years as executive chef at Brasserie Les Halles.",
+    "image": "https://img.freepik.com/free-photo/female-chef-holding-wooden-spoon-whisk-rolling-pin-white-uniform-looking-cheery_176474-12639.jpg?w=996&t=st=1683109115~exp=1683109715~hmac=6056071b4937889d98af6a9e7d4d3adb7dc4b6c42069d4ee951d78dead9f8017",
+    "specialties": [
+      "French cuisine",
+      "Asian cuisine",
+      "Fusion cuisine"
+    ],
+    "num_recipes": 75,
+    "years_experience": 15,
+    "num_likes": 7000,
+    "recipes": [
+      {
+        "id": "1",
+        "recipe_name": "Pizza Napoletana",
+        "recipe_image": "https://i.ibb.co/rcN2Zy7/food4.jpg",
+        "ingredients": [
+          "salt", "sugar", "saturated fats", "trans fats", "calories"
+        ],
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem repellendus, blanditiis fuga sed ipsa quisquam asperiores hic, similique ipsum consequatur libero quasi dolores eligendi provident adipisci",
+        "cooking_method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus necessitatibus facere doloribus iste quod soluta",
+        "rating": 4.5
+      },
+      {
+        "id": "2",
+        "recipe_name": "Tonda Romana",
+        "recipe_image": "https://i.ibb.co/WtbVJK6/food5.jpg",
+        "ingredients": [
+          "salt", "sugar", "saturated fats", "trans fats", "calories"
+        ],
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem repellendus, blanditiis fuga sed ipsa quisquam asperiores hic, similique ipsum consequatur libero quasi dolores eligendi provident adipisci",
+        "cooking_method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus necessitatibus facere doloribus iste quod soluta",
+        "rating": 4.4
+      },
+      {
+        "id": "3",
+        "recipe_name": "Persian Kabab Platter",
+        "recipe_image": "https://i.ibb.co/XbW97dR/food1.jpg",
+        "ingredients": [
+          "salt", "sugar", "saturated fats", "trans fats", "calories"
+        ],
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem repellendus, blanditiis fuga sed ipsa quisquam asperiores hic, similique ipsum consequatur libero quasi dolores eligendi provident adipisci",
+        "cooking_method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus necessitatibus facere doloribus iste quod soluta",
+        "rating": 3.5
+      },
+      {
+        "id": "4",
+        "recipe_name": "Pakistani Reshmi Kabab",
+        "recipe_image": "https://i.ibb.co/1MDV0v3/food6.jpg",
+        "ingredients": [
+          "salt", "sugar", "saturated fats", "trans fats", "calories"
+        ],
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem repellendus, blanditiis fuga sed ipsa quisquam asperiores hic, similique ipsum consequatur libero quasi dolores eligendi provident adipisci",
+        "cooking_method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus necessitatibus facere doloribus iste quod soluta",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": "4567890",
+    "name": "Bobby Flay",
+    "bio": "Robert William Flay is an American celebrity chef, restaurateur, and reality television personality. He is the owner and executive chef of several restaurants, including Mesa Grill in Las Vegas and Bar Americain in New York City.",
+    "image": "https://img.freepik.com/free-photo/male-cook-standing-kitchen-presenting-delicious-dish_23-2147863798.jpg?w=740&t=st=1683109122~exp=1683109722~hmac=c5f580d4daadfb65ba7c17be7061a2b4a4059dc2a45bfb9eed937a7f529448d8",
+    "specialties": [
+      "Southwestern cuisine",
+      "Barbecue",
+      "American cuisine"
+    ],
+    "num_recipes": 200,
+    "years_experience": 25,
+    "num_likes": 9000,
+    "recipes": [
+      {
+        "id": "1",
+        "recipe_name": "Italian Pizzaroma",
+        "recipe_image": "https://i.ibb.co/6WSJFjk/food2.jpg",
+        "ingredients": [
+          "salt", "sugar", "saturated fats", "trans fats", "calories"
+        ],
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem repellendus, blanditiis fuga sed ipsa quisquam asperiores hic, similique ipsum consequatur libero quasi dolores eligendi provident adipisci",
+        "cooking_method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus necessitatibus facere doloribus iste quod soluta",
+        "rating": 4.9
+      },
+      {
+        "id": "2",
+        "recipe_name": "Persian Kabab Platter",
+        "recipe_image": "https://i.ibb.co/XbW97dR/food1.jpg",
+        "ingredients": [
+          "salt", "sugar", "saturated fats", "trans fats", "calories"
+        ],
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem repellendus, blanditiis fuga sed ipsa quisquam asperiores hic, similique ipsum consequatur libero quasi dolores eligendi provident adipisci",
+        "cooking_method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus necessitatibus facere doloribus iste quod soluta",
+        "rating": 4.8
+      },
+      {
+        "id": "3",
+        "recipe_name": "Mexican Nachos",
+        "recipe_image": "https://i.ibb.co/bHwjQS3/food3.jpg",
+        "ingredients": [
+          "salt", "sugar", "saturated fats", "trans fats", "calories"
+        ],
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem repellendus, blanditiis fuga sed ipsa quisquam asperiores hic, similique ipsum consequatur libero quasi dolores eligendi provident adipisci",
+        "cooking_method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus necessitatibus facere doloribus iste quod soluta",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": "6789012",
+    "name": "Emeril Lagasse",
+    "bio": "Emeril John Lagasse is an American celebrity chef, restaurateur, television personality, and cookbook author. He is a regional James Beard Award winner, known for his mastery of Creole and Cajun",
+    "image": "https://img.freepik.com/free-photo/image-cheerful-young-cook-uniform-standing-isolated-grey-wall_171337-5340.jpg?w=996&t=st=1683109155~exp=1683109755~hmac=94b54086d02c6717876e15a42eb22bae35a085922f1bea7ea71554399ad38697",
+    "specialties": [
+      "French cuisine",
+      "International cuisine"
+    ],
+    "num_recipes": 50,
+    "years_experience": 30,
+    "num_likes": 6000,
+    "recipes": [
+      {
+        "id": "1",
+        "recipe_name": "Persian Kabab Platter",
+        "recipe_image": "https://i.ibb.co/XbW97dR/food1.jpg",
+        "ingredients": [
+          "salt", "sugar", "saturated fats", "trans fats", "calories"
+        ],
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem repellendus, blanditiis fuga sed ipsa quisquam asperiores hic, similique ipsum consequatur libero quasi dolores eligendi provident adipisci",
+        "cooking_method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus necessitatibus facere doloribus iste quod soluta",
+        "rating": 4.5
+      },
+      {
+        "id": "2",
+        "recipe_name": "Italian Pizzaroma",
+        "recipe_image": "https://i.ibb.co/6WSJFjk/food2.jpg",
+        "ingredients": [
+          "salt", "sugar", "saturated fats", "trans fats", "calories"
+        ],
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem repellendus, blanditiis fuga sed ipsa quisquam asperiores hic, similique ipsum consequatur libero quasi dolores eligendi provident adipisci",
+        "cooking_method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus necessitatibus facere doloribus iste quod soluta",
+        "rating": 4.5
+      },
+      {
+        "id": "3",
+        "recipe_name": "Mexican Nachos",
+        "recipe_image": "https://i.ibb.co/bHwjQS3/food3.jpg",
+        "ingredients": [
+          "salt", "sugar", "saturated fats", "trans fats", "calories"
+        ],
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem repellendus, blanditiis fuga sed ipsa quisquam asperiores hic, similique ipsum consequatur libero quasi dolores eligendi provident adipisci",
+        "cooking_method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus necessitatibus facere doloribus iste quod soluta",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": "12345680",
+    "name": "Gordon Ramsay",
+    "bio": "Gordon James Ramsay OBE is a British chef, restaurateur, writer, and television personality. He has owned and operated a series of restaurants since he was 31 years old, including the three-Michelin-starred Restaurant Gordon Ramsay in London.",
+    "image": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=996&t=st=1683109131~exp=1683109731~hmac=a89ec7b22a35cd033b5ce7c5b18c3be4c069bc0fb65df74f46ad21381ac0449c",
+    "specialties": [
+      "French cuisine",
+      "Italian cuisine",
+      "British cuisine"
+    ],
+    "num_recipes": 150,
+    "years_experience": 30,
+    "num_likes": 5000,
+    "recipes": [
+      {
+        "id": "1",
+        "recipe_name": "Persian Kabab Platter",
+        "recipe_image": "https://i.ibb.co/XbW97dR/food1.jpg",
+        "ingredients": [
+          "salt", "sugar", "saturated fats", "trans fats", "calories"
+        ],
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem repellendus, blanditiis fuga sed ipsa quisquam asperiores hic, similique ipsum consequatur libero quasi dolores eligendi provident adipisci",
+        "cooking_method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus necessitatibus facere doloribus iste quod soluta",
+        "rating": 4.22
+      },
+      {
+        "id": "2",
+        "recipe_name": "Italian Pizzaroma",
+        "recipe_image": "https://i.ibb.co/6WSJFjk/food2.jpg",
+        "ingredients": [
+          "salt", "sugar", "saturated fats", "trans fats", "calories"
+        ],
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem repellendus, blanditiis fuga sed ipsa quisquam asperiores hic, similique ipsum consequatur libero quasi dolores eligendi provident adipisci",
+        "cooking_method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus necessitatibus facere doloribus iste quod soluta",
+        "rating": 3.99
+      },
+      {
+        "id": "3",
+        "recipe_name": "Mexican Nachos",
+        "recipe_image": "https://i.ibb.co/bHwjQS3/food3.jpg",
+        "ingredients": [
+          "salt", "sugar", "saturated fats", "trans fats", "calories"
+        ],
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem repellendus, blanditiis fuga sed ipsa quisquam asperiores hic, similique ipsum consequatur libero quasi dolores eligendi provident adipisci",
+        "cooking_method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus necessitatibus facere doloribus iste quod soluta",
+        "rating": 4.10
+      },
+      {
+        "id": "4",
+        "recipe_name": "Pizza Napoletana",
+        "recipe_image": "https://i.ibb.co/rcN2Zy7/food4.jpg",
+        "ingredients": [
+          "salt", "sugar", "saturated fats", "trans fats", "calories"
+        ],
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem repellendus, blanditiis fuga sed ipsa quisquam asperiores hic, similique ipsum consequatur libero quasi dolores eligendi provident adipisci",
+        "cooking_method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus necessitatibus facere doloribus iste quod soluta",
+        "rating": 4.1
+      },
+      {
+        "id": "5",
+        "recipe_name": "Tonda Romana",
+        "recipe_image": "https://i.ibb.co/WtbVJK6/food5.jpg",
+        "ingredients": [
+          "salt", "sugar", "saturated fats", "trans fats", "calories"
+        ],
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem repellendus, blanditiis fuga sed ipsa quisquam asperiores hic, similique ipsum consequatur libero quasi dolores eligendi provident adipisci",
+        "cooking_method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus necessitatibus facere doloribus iste quod soluta",
+        "rating": 4.2
+      },
+      {
+        "id": "6",
+        "recipe_name": "Pakistani Reshmi Kabab",
+        "recipe_image": "https://i.ibb.co/1MDV0v3/food6.jpg",
+        "ingredients": [
+          "salt", "sugar", "saturated fats", "trans fats", "calories"
+        ],
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem repellendus, blanditiis fuga sed ipsa quisquam asperiores hic, similique ipsum consequatur libero quasi dolores eligendi provident adipisci",
+        "cooking_method": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus necessitatibus facere doloribus iste quod soluta",
+        "rating": 4.5
+      }
+    ]
+  }
+]
