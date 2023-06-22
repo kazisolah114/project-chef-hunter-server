@@ -6,7 +6,7 @@ app.get('/', (req, res) => {
     res.json({name: "solah"})
 })
 const data = require('./data/data.json')
-// sdsdssdf
+
 app.get('/chefs', (req, res) => {
     res.send(data)
 })
